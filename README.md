@@ -4,7 +4,8 @@ This example illustrates how to make measurement using our measurement tool. Exa
 
 ## Example (Bowen Wall)
 * Please watch the video for details on the usage in this example: [**Video**](https://youtu.be/oNpxRYDU8ak?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY)   
-* Please refer to help on the menu bar or just press **F1**.  
+* Please refer to help on the menu bar or just press **F1**. 
+* Please see the output measurement [**PDF**](measurement_bowen.pdf). 
 
 ### Measurement using our tool
 ![](measurement_bowen.jpg)
@@ -49,7 +50,8 @@ Please refer to ***Help***.
 On the menu bar, click **File>Save**. Select the folder to save the results, give a name for the result file and press OK. The image will be saved as a PDF file and the log will be automatically saved as a CSV format.
 
 ## Example (Bridge Abutment)
-Please watch the video for details on the usage in this example: [**Video**](https://youtu.be/MxnvdGGmSvs?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY) 
+* Please watch the video for details on the usage in this example: [**Video**](https://youtu.be/MxnvdGGmSvs?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY) 
+* Please see the output measurement [**PDF**](measurement_wall.pdf).
 
 ### On-site measurement 
 ![](BridgeAbutment.png)
