@@ -3,8 +3,11 @@
 This example illustrates how to make measurement using our measurement tool. Example images  are already included in the distributed package. Please unzip the package and place the folder in anyplace in your computer.
 
 ## Example (Bowen Wall)
-* Please watch the video for details on the usage in this example: [**Video**]()   
+* Please watch the video for details on the usage in this example: [**Video**](https://youtu.be/oNpxRYDU8ak?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY)   
 * Please refer to help on the menu bar or just press **F1**.  
+
+### Measurement using our tool
+![](measurement_bowen.jpg)
   
 #### Step 01: Start program
 Open `MeasurementTool.exe` in the `MeasurementTool_Release_1.0` folder.    
@@ -46,8 +49,11 @@ Please refer to ***Help***.
 On the menu bar, click **File>Save**. Select the folder to save the results, give a name for the result file and press OK. The image will be saved as a PDF file and the log will be automatically saved as a CSV format.
 
 ## Example (Bridge Abutment)
-Please watch the video for details on the usage in this example: [**Video**]()   
+Please watch the video for details on the usage in this example: [**Video**](https://youtu.be/MxnvdGGmSvs?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY) 
 
-## Example (Parking Lot)
-Please watch the video for details on the usage in this example: [**Video**]()   
+### On-site measurement 
+![](BridgeAbutment.png)
+
+### Measurement using our tool
+![](measurement_wall.jpg)
 
