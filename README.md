@@ -22,7 +22,7 @@ On the menu bar, click **File>Load image**. The test image is **`Bowen.jpg`** in
 #### Step 04: Crop the image
 First, zoom-out the image to fit in the display window. To do this, click ***start*** under ***Zoom With Mouse***. You can hover over the image using a mouse wheel or touch pad in your computer. **You must click** ***stop*** **button to exit the zoom mode, and use the other functions.** 
 
-Then, to crop out unnecessary parts,  on the menu bar, click **Edit>Crop**. Draw a rectangle over the portion of the image that you want to keep. First left click at the top left corner of the region you want to crop. Hold the mouse and move to the bottom right corner of the region. When you release the button, a yellow dashed box will appear along the region. Release the mouse, and a window will appear asking if the region selected is correct or not. If correct, press OK and the selected region will be cropped. If not, click cancel and repeat the steps. 
+Then, to crop out unnecessary parts,  on the menu bar, click **Edit>Crop**. Draw a rectangle over the portion of the image that you want to keep. First left click at the top left corner of the region you want to crop. Hold the mouse and move to the bottom right corner of the region you want to keep. When you release the button, a yellow dashed box will appear around the region. Release the mouse, and a window will appear asking if the region selected is correct or not. If correct, press OK and the selected region will be cropped. If not, click cancel and repeat the steps. 
 
 > **Note that cropping should be performed before making any measurements or else the measurements will be lost.**
 
