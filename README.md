@@ -10,7 +10,7 @@ Please watch the video for more details on running the program: [**Video**](http
 ![](amazon.jpg)
 
 
-2.Please unzip the package and place the folder anywhere on the your computer. Please do not just click the zip file.
+2.Please unzip the package and place the folder anywhere on the your computer. You can see the menu if you do left click (see figure). Please do not just double click the zip file to run the program.
  
 ![](unzip.jpg)
 
