@@ -4,7 +4,7 @@ This example illustrates how to make measurements using our measurement tool. Ex
 
 ## Getting Started
 
-* Please watch the video for more details on running the program: [**Video**]() (05m 17s)   
+Please watch the video for more details on running the program: [**Video**](https://youtu.be/Bh0zkw-KAHE) (01m 19s)   
 
 1. Download `MeasurementTool 1.0.zip` from the [**Link**](https://www.amazon.com/clouddrive/share/PMqG7E7n2d2e7kQ5qruuJiix3pqDazje1rXansPDmL8?ref_=cd_ph_share_link_copy)
 ![](amazon.jpg)
