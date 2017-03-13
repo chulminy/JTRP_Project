@@ -1,6 +1,22 @@
 # Example of The Measurement Tool Usage
 
-This example illustrates how to make measurements using our measurement tool. Example images  are already included in the distributed package. Please unzip the package and place. You can place the folder anywhere on the your computer. 
+This example illustrates how to make measurements using our measurement tool. Example images  are already included in the distributed package. 
+
+## Getting Started
+
+* Please watch the video for more details on running the program: [**Video**]() (05m 17s)   
+
+1. Download `MeasurementTool 1.0.zip` from the [**Link**](https://www.amazon.com/clouddrive/share/PMqG7E7n2d2e7kQ5qruuJiix3pqDazje1rXansPDmL8?ref_=cd_ph_share_link_copy)
+![](amazon.jpg)
+
+
+2.Please unzip the package and place the folder anywhere on the your computer. Please do not just click the zip file.
+ 
+![](unzip.jpg)
+
+3.Run `MeasurementTool.exe` in the unzipped folder. 
+
+![](exefile.jpg)
 
 ## Example (Bowen Wall)
 * Please watch the video for more details on the usage in this example: [**Video**](https://youtu.be/oNpxRYDU8ak?list=PLa1nAPP8qUX_0Zi166iNi7eb0w23UCekY) (05m 17s)   
