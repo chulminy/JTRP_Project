@@ -9,7 +9,7 @@ In order to get high accuracy measurement results, an image collection plan is t
 4. Close-up images easily get wrong due to insufficient overlap.
 5. The wall areas is recommended to be at the center of the images and take up more than 75% of images ares. 
 6. Small horizontal or vertical angles (less than 20~30 degree) are allowed but great care should be taken when you take objects are not on the same plane (see figure 6). 
-
+7. Images should be captured at different locations, not by angle rotation. 
 
 
 ### Image collection strategy
@@ -26,7 +26,6 @@ In order to get high accuracy measurement results, an image collection plan is t
 |Practice | Layout | Note |
 | :--: | :--------  | :-----|
 | **Bad**  | ![](post/guide1.png) | <ul><li> Not enough overlap between the images </li><li> Do not cover entire wall areas with the images </li></ul>|
-| **Bad**  | ![](post/guide2.png)|  <ul><li> Large horizontal or vertical angles </li><li> May produce large distortion on the final orthophoto </li></ul>|
 | **Bad**  | ![](post/guide3.png)| Evaluation |
 | **Bad**  | ![](post/guide4.png)| Evaluation |
 | **Bad**  | ![](post/guide5.png)| Evaluation |
