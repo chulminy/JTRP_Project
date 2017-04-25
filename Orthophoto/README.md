@@ -4,7 +4,7 @@ This example illustrates how to create a high-quality orthophoto using our ortho
 **[Link](https://github.com/chulminy/JTRP_Project/blob/master/iPhoneSample/sample_image.md)**   
 
 ## Getting Started
-* Please watch the video for more details on the usage in this example: [**Video**](XXXX) (05m 17s)
+* Please watch the video for more details on the usage in this example: [**Video**](https://youtu.be/FWuhwjFmIn0) (03m 03s)
 * Please refer to help using the menu bar, or just press **F1**.    
 
 1. Download `OrthoPhoto_04_24_2017.zip` from the **[Link](https://my.syncplicity.com/share/vfunzhpuvdouzhw/OrthoPhoto_04_24_2017)**    
