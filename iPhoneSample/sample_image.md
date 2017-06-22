@@ -74,7 +74,7 @@ Location: **[Link](https://www.google.com/maps/place/Prophetstown+State+Park/@40
 
 
 ## Musical Stage
-![](post/.jpg)  
+![](post/iphone_musical_stage.jpg)  
 Download the images: **[Link](https://my.syncplicity.com/share/coyxfd5silje80n/iphone_musical_stage)**  
 Number of images:   
 Camera model: iPhone 6S 
@@ -82,7 +82,7 @@ Type: Aerial
 Location: **[Link](https://www.google.com/maps/place/David+Ross+Memorial+and+Garden,+West+Lafayette,+IN+47906/@40.4310578,-86.9225247,90a,35y,39.46t/data=!3m1!1e3!4m12!1m6!3m5!1s0x8812fd37423e0507:0x8eccb2cf8b1a7c8e!2sPurdue+University!8m2!3d40.4237054!4d-86.9211946!3m4!1s0x8812fd35400114c7:0x987bfbd9523d612d!8m2!3d40.4321673!4d-86.9239086)**
 
 ## COREC Road
-![](post/.jpg)  
+![](post/iphone_corec_road.jpg)  
 Download the images: **[Link](https://my.syncplicity.com/share/d5t8asy6mk95ixl/iphone_corec_road)**  
 Number of images:   
 Camera model: iPhone 6S 
